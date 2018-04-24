@@ -1,0 +1,10 @@
+*.dep
+*.ewd
+*.ewp
+*.ewt
+*.eww
+*.wsdt
+*.wspos
+/Lib
+/Prj
+/settings
